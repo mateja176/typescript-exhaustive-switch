@@ -7,7 +7,5 @@ const logName = (n: Name) => {
     case 'John':
       console.log('John');
       break;
-    default:
-      break;
   }
 };
